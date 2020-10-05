@@ -1,0 +1,94 @@
+#heading{
+	font-size: 20px;
+}
+img {
+    max-width:50%;
+    height:auto;
+
+
+}
+#fashion{ font-family: 'Chivo', sans-serif;
+	margin-bottom: -150px;
+
+
+
+}
+
+#section2{ font-family: 'Chivo', sans-serif;
+
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-bottom: 100px: 
+	margin-right 100px;
+
+
+
+}
+
+#total{ font-family: 'Chivo', sans-serif;
+
+
+}
+
+#total2{ font-family: 'Chivo', sans-serif;
+
+}
+
+#section3{ font-family: 'Chivo', sans-serif;
+
+	margin-top: 150px;
+	margin-left: 90px;
+	margin-bottom: 150px: 
+	margin-right 150px; 
+
+}
+
+#quote{
+	margin-top: 500px;
+	margin-left: 400px;
+	margin-bottom: 500px: 
+	margin-right 500px; 
+}
+
+#section4{font-family: 'Chivo', sans-serif;
+
+	margin-top: 150px;
+	margin-left: 90px;
+	margin-bottom: 150px: 
+	margin-right 150px; 
+
+
+
+}
+
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical 
+}
+
+
+input[type=submit] {
+  background-color: #DCDCDC;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+  background-color: #D84984;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #DCDCDC;
+  padding: 20px;
+}
